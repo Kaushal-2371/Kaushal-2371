@@ -1,12 +1,32 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hello, I'm Kaushal Sahu👋
 
-- 🔭 I’m currently working on machine learning project **weather forcasting**
+I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, computer vision, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+![Kaushal's github stats](https://github-readme-stats.vercel.app/api?username=Kaushal-2371&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+-------
+
+## 🔧 Skills
+
+- **Languages:** ![Static Badge](https://img.shields.io/badge/Pyhton-black?logo=Python)
+ ![Static Badge](https://img.shields.io/badge/C%20programing%20-%20black?logo=C) ![Static Badge](https://img.shields.io/badge/R%20programing%20-%20black?logo=R)
+
+- **Libraries and Frameworks:** ![Static Badge](https://img.shields.io/badge/Pandas%20-%20black?logo=pandas) ![Static Badge](https://img.shields.io/badge/Scikit--learn%20-%20black?logo=Scikit-learn)
+ ![Static Badge](https://img.shields.io/badge/Seaborn%20-%20black?logo=opensea)
+ ![Static Badge](https://img.shields.io/badge/OpenCV%20-%20black?logo=opencv)
+
+- **Database:** ![Static Badge](https://img.shields.io/badge/Mongodb%20-%20black?logo=mongodb) ![Static Badge](https://img.shields.io/badge/MySQL%20-%20black?logo=MySQL)
+
+- **Serialization:** ![Static Badge](https://img.shields.io/badge/Pickle%20-%20black?logo=packer)
+
+<br>
+
+-------
+
+## 🔗 Connect with me
 <a href="https://linkedin.com/in/kaushal-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-sahu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kaushal sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushal sahu" height="30" width="40" /></a>
-</p>
+<a href="https://stackoverflow.com/users/15883741/kaushal-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="{kaushal}" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/auxinkaushalckp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushal sahu" height="30" width="40" /></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
