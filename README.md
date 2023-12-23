@@ -25,6 +25,8 @@ I am a passionate machine learning engineer with a strong background in Python a
 -------
 
 ## 🔗 Connect with me
+
+&#160; &#160; &#160; &#160; &#160;
 <a href="https://linkedin.com/in/kaushal-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-sahu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15883741/kaushal-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="{kaushal}" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/auxinkaushalckp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushal sahu" height="30" width="40" /></a> 
