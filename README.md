@@ -1,4 +1,4 @@
-# Hello, I'm Kaushal Sahu👋
+# Hello, I'm Kaushal👋
 
 I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, computer vision, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
