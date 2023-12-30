@@ -3,7 +3,16 @@
 I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, computer vision, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
 
-![Kaushal's github stats](https://github-readme-stats.vercel.app/api?username=Kaushal-2371&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!--![Kaushal's github stats](https://github-readme-stats.vercel.app/api?username=Kaushal-2371&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
+
+<a href="https://github.com/Kaushal-2371/Indian-Weather-Prediction-Model" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Indian-Weather-Prediction-Model&theme=transparent" />
+</a>
+<a href="https://github.com/Kaushal-2371/Realtime-Face-Detection-Model" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model&theme=transparent" />
+</a>
+
+
 
 -------
 
