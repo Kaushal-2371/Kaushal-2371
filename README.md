@@ -5,17 +5,17 @@ I am a passionate machine learning engineer with a strong background in Python a
 
 <!--![Kaushal's github stats](https://github-readme-stats.vercel.app/api?username=Kaushal-2371&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
 
-<!--<a href="https://github.com/Kaushal-2371/Indian-Weather-Prediction-Model" target="_blank">
+<a href="https://github.com/Kaushal-2371/Indian-Weather-Prediction-Model" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Indian-Weather-Prediction-Model&theme=github_dark" />
 </a>
 <a href="https://github.com/Kaushal-2371/Realtime-Face-Detection-Model" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model&theme=github_dark" />
 </a>
--->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model)](https://github.com/Kaushal-2371/Realtime-Face-Detection-Model)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model)](https://github.com/Kaushal-2371/Realtime-Face-Detection-Model)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)-->
 
 -------
 
