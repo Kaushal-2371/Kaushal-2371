@@ -33,9 +33,8 @@ I am a passionate machine learning engineer with a strong background in Python a
 
 - **Database:** ![Static Badge](https://img.shields.io/badge/Mongodb%20-%20black?logo=mongodb) ![Static Badge](https://img.shields.io/badge/MySQL%20-%20black?logo=MySQL)
 
-- **Serialization:** ![Static Badge](https://img.shields.io/badge/Pickle%20-%20black?logo=packer)
-![Static Badge](https://img.shields.io/badge/Joplib-black?logo=joplin)
-
+- **Visualization:** ![Static Badge](https://img.shields.io/badge/Tableau-black?logo=tableau)
+![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=googlebigquery)
 
 <br>
 
