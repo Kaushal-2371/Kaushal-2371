@@ -1,4 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?logo=twitter&link=https%3A%2F%2Fx.com%2FKaushalSah9206)
+[![Twitter Badge](https://img.shields.io/badge/-@KaushalSah9206-1ca0f1?style=flat-square&labelColor=black&logo=x&link=https://x.com/KaushalSah9206)](https://x.com/KaushalSah9206)
 
 
 # Hello, I'm Kaushal👋
