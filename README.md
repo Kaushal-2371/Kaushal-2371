@@ -27,10 +27,15 @@ I am a passionate machine learning engineer with a strong background in Python a
 - **Libraries and Frameworks:** ![Static Badge](https://img.shields.io/badge/Pandas%20-%20black?logo=pandas) ![Static Badge](https://img.shields.io/badge/Scikit--learn%20-%20black?logo=Scikit-learn)
  ![Static Badge](https://img.shields.io/badge/Seaborn%20-%20black?logo=opensea)
  ![Static Badge](https://img.shields.io/badge/OpenCV%20-%20black?logo=opencv)
+![Static Badge](https://img.shields.io/badge/TensorFlow-black?logo=tensorflow)
+![Static Badge](https://img.shields.io/badge/Keras-black?logo=Keras)
+
 
 - **Database:** ![Static Badge](https://img.shields.io/badge/Mongodb%20-%20black?logo=mongodb) ![Static Badge](https://img.shields.io/badge/MySQL%20-%20black?logo=MySQL)
 
 - **Serialization:** ![Static Badge](https://img.shields.io/badge/Pickle%20-%20black?logo=packer)
+![Static Badge](https://img.shields.io/badge/Joplib-black?logo=joplin)
+
 
 <br>
 
