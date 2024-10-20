@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?logo=twitter&link=https%3A%2F%2Fx.com%2FKaushalSah9206)
+
+
 # Hello, I'm Kaushal👋
 
 I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, neural networks, computer vision, NLP, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
