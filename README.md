@@ -24,17 +24,19 @@ I am a passionate machine learning engineer with a strong background in Python a
 - **Languages:** ![Static Badge](https://img.shields.io/badge/Pyhton-black?logo=Python)
  ![Static Badge](https://img.shields.io/badge/C%20programing%20-%20black?logo=C) ![Static Badge](https://img.shields.io/badge/R%20programing%20-%20black?logo=R)
 
-- **Libraries and Frameworks:** ![Static Badge](https://img.shields.io/badge/Pandas%20-%20black?logo=pandas) ![Static Badge](https://img.shields.io/badge/Scikit--learn%20-%20black?logo=Scikit-learn)
+- **Libraries and Frameworks:** ![Static Badge](https://img.shields.io/badge/TensorFlow-black?logo=tensorflow)
+![Static Badge](https://img.shields.io/badge/Scikit--learn%20-%20black?logo=Scikit-learn)
+![Static Badge](https://img.shields.io/badge/Keras-black?logo=Keras)
+ ![Static Badge](https://img.shields.io/badge/Pandas%20-%20black?logo=pandas)
  ![Static Badge](https://img.shields.io/badge/Seaborn%20-%20black?logo=opensea)
  ![Static Badge](https://img.shields.io/badge/OpenCV%20-%20black?logo=opencv)
-![Static Badge](https://img.shields.io/badge/TensorFlow-black?logo=tensorflow)
-![Static Badge](https://img.shields.io/badge/Keras-black?logo=Keras)
 
-
-- **Database:** ![Static Badge](https://img.shields.io/badge/Mongodb%20-%20black?logo=mongodb) ![Static Badge](https://img.shields.io/badge/MySQL%20-%20black?logo=MySQL)
 
 - **Visualization:** ![Static Badge](https://img.shields.io/badge/Tableau-black?logo=tableau)
 ![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=googlebigquery)
+
+- **Database:** ![Static Badge](https://img.shields.io/badge/Mongodb%20-%20black?logo=mongodb) ![Static Badge](https://img.shields.io/badge/MySQL%20-%20black?logo=MySQL)
+
 
 <br>
 
