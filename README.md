@@ -44,5 +44,6 @@ I am a passionate machine learning engineer with a strong background in Python a
 ](https://www.linkedin.com/in/kaushal-sahu/) 
 [![Quora Badge](https://img.shields.io/badge/Quora-red?style=flat-square&logo=quora&link=https%3A%2F%2Fwww.quora.com%2Fprofile%2FKaushal-400)](https://www.quora.com/profile/Kaushal-400) 
 [![X Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?style=flat-square&logo=x&link=https%3A%2F%2Fx.com%2FKaushalSah9206)](https://x.com/KaushalSah9206)
+[![Static Badge](https://img.shields.io/badge/kaushalsahuofficial%40gmail.com-orange?style=flat-square&logo=gmail&logoColor=white&link=kaushalsahuofficial%40gmail.com)](kaushalsahuoffical@gmail.com)
 
 
