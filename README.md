@@ -1,9 +1,6 @@
 # Hello, I'm Kaushal👋
-[![Linkdin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkaushal-sahu%2F)
-](https://www.linkedin.com/in/kaushal-sahu/) 
-[![Quora Badge](https://img.shields.io/badge/Any%20Doubt%3F-red?style=flat-square&logo=quora&link=https%3A%2F%2Fwww.quora.com%2Fprofile%2FKaushal-400)](https://www.quora.com/profile/Kaushal-400) 
-[![X Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?style=flat-square&logo=x&link=https%3A%2F%2Fx.com%2FKaushalSah9206)](https://x.com/KaushalSah9206)
-<br>I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, neural networks, computer vision, NLP, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
+
+I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, neural networks, computer vision, NLP, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
 
 <a href="https://github.com/Kaushal-2371/ResNet_Transfer-Learning" target="_blank">
@@ -31,7 +28,6 @@
  ![Static Badge](https://img.shields.io/badge/Seaborn%20-%20black?logo=opensea)
  ![Static Badge](https://img.shields.io/badge/OpenCV%20-%20black?logo=opencv)
 
-
 - **Visualization:** ![Static Badge](https://img.shields.io/badge/Tableau-black?logo=tableau)
 ![Static Badge](https://img.shields.io/badge/Power%20BI-black?logo=googlebigquery)
 
@@ -44,9 +40,9 @@
 
 ## 🔗 Connect with me
 
-&#160; &#160; &#160; &#160; &#160;
-<a href="https://linkedin.com/in/kaushal-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-sahu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15883741/kaushal-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="{kaushal}" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/auxinkaushalckp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushal sahu" height="30" width="40" /></a> 
+[![Linkdin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkaushal-sahu%2F)
+](https://www.linkedin.com/in/kaushal-sahu/) 
+[![Quora Badge](https://img.shields.io/badge/Any%20Doubt%3F-red?style=flat-square&logo=quora&link=https%3A%2F%2Fwww.quora.com%2Fprofile%2FKaushal-400)](https://www.quora.com/profile/Kaushal-400) 
+[![X Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?style=flat-square&logo=x&link=https%3A%2F%2Fx.com%2FKaushalSah9206)](https://x.com/KaushalSah9206)
 
 
