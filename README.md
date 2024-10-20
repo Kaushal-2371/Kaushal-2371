@@ -3,7 +3,7 @@
 ](https://www.linkedin.com/in/kaushal-sahu/) 
 [![Quora Badge](https://img.shields.io/badge/Any%20Doubt%3F-red?style=flat-square&logo=quora&link=https%3A%2F%2Fwww.quora.com%2Fprofile%2FKaushal-400)](https://www.quora.com/profile/Kaushal-400) 
 [![X Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?style=flat-square&logo=x&link=https%3A%2F%2Fx.com%2FKaushalSah9206)](https://x.com/KaushalSah9206)
-I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, neural networks, computer vision, NLP, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
+<br>I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, neural networks, computer vision, NLP, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
 
 <a href="https://github.com/Kaushal-2371/ResNet_Transfer-Learning" target="_blank">
