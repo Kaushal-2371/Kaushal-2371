@@ -13,10 +13,6 @@ I am a passionate machine learning engineer with a strong background in Python a
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model&theme=github_dark" />
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model)](https://github.com/Kaushal-2371/Realtime-Face-Detection-Model)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
-
 -------
 
 ## 🔧 Skills
