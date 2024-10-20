@@ -28,6 +28,7 @@ I am a passionate machine learning engineer with a strong background in Python a
 ![Static Badge](https://img.shields.io/badge/Scikit--learn%20-%20black?logo=Scikit-learn)
 ![Static Badge](https://img.shields.io/badge/Keras-black?logo=Keras)
  ![Static Badge](https://img.shields.io/badge/Pandas%20-%20black?logo=pandas)
+![Static Badge](https://img.shields.io/badge/Numpy-black?logo=numpy)
  ![Static Badge](https://img.shields.io/badge/Seaborn%20-%20black?logo=opensea)
  ![Static Badge](https://img.shields.io/badge/OpenCV%20-%20black?logo=opencv)
 
