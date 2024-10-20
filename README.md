@@ -1,5 +1,5 @@
-[![Static Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?logo=twitter&link=https%3A%2F%2Fx.com%2FKaushalSah9206)](https://x.com/KaushalSah9206)
-[![Twitter Badge](https://img.shields.io/badge/-@KaushalSah9206-1ca0f1?style=flat-square&labelColor=black&logo=x&link=https://x.com/KaushalSah9206)](https://x.com/KaushalSah9206)
+[![Static Badge](https://img.shields.io/badge/Follow%20%40KaushalSah9206-black?style=social&logo=x&link=https%3A%2F%2Fx.com%2FKaushalSah9206)](https://x.com/KaushalSah9206)
+[![Static Badge](https://img.shields.io/badge/Any%20Doubt-red?style=social&logo=quora&link=https%3A%2F%2Fwww.quora.com%2Fprofile%2FKaushal-400)](https://www.quora.com/profile/Kaushal-400)
 
 
 # Hello, I'm Kaushal👋
