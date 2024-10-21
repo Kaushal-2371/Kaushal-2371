@@ -12,6 +12,9 @@ I am a passionate machine learning engineer with a strong background in Python a
 <a href="https://github.com/Kaushal-2371/Realtime-Face-Detection-Model" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model&theme=github_dark" />
 </a>
+<a href="https://github.com/Kaushal-2371/Research-Paper" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Research-Paper&theme=github_dark" />
+</a>
 
 -------
 
