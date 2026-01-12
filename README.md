@@ -1,48 +1,20 @@
-# Hello, I'm Kaushal 👋
+# Hello, I'm Kaushal👋
 
-I am a passionate Machine Learning Engineer with a strong background in Python and modern ML frameworks.  
-I enjoy turning raw data into meaningful insights and building real-world AI solutions.
+I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, neural networks, computer vision, NLP, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="left">
-  <a href="https://github.com/Kaushal-2371/LLM_Chatbots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=LLM_Chatbots&theme=github_dark" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Kaushal-2371/ResNet_Transfer-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=ResNet_Transfer-Learning&theme=github_dark" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Kaushal-2371/Realtime-Face-Detection-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model&theme=github_dark" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Kaushal-2371/Research-Paper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Research-Paper&theme=github_dark" />
-  </a>
-</p>
-
----
-
-## 🧠 Core Expertise
-- Machine Learning & Deep Learning
-- Computer Vision & NLP
-- LLMs & Chatbots
-- Python, NumPy, Pandas, PyTorch, TensorFlow
-- Data Analysis & Research
+<a href="https://github.com/Kaushal-2371/LLM_Chatbots" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=LLM_Chatbots&theme=github_dark" />
+</a>
+<a href="https://github.com/Kaushal-2371/ResNet_Transfer-Learning" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=ResNet_Transfer-Learning&theme=github_dark" />
+</a>
+<a href="https://github.com/Kaushal-2371/Realtime-Face-Detection-Model" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Realtime-Face-Detection-Model&theme=github_dark" />
+</a>
+<a href="https://github.com/Kaushal-2371/Research-Paper" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaushal-2371&repo=Research-Paper&theme=github_dark&title_color=800080&icon_color=800080" />
+</a>
 
 
 -------
