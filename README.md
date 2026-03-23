@@ -1,8 +1,9 @@
 ## 👋 Hi there!
 
-I am a passionate machine learning engineer with a strong background in Python and a variety of libraries and frameworks. My expertise includes data manipulation, machine learning, neural networks, NLP, and database management. I enjoy turning raw data into meaningful insights and building innovative solutions.
+Data Analyst skilled in Python, SQL, and Power BI, focused on turning raw data into actionable insights.
 
-🌱 Constantly learning and staying updated with the latest industry trends and technologies, I am committed to delivering high-quality, efficient, and scalable solutions. I value clean code, effective problem-solving, and continuous improvement in my development practices.
+
+Built ML and NLP projects on real-world datasets, including chatbot systems and research-based work. I also leverage AI and prompt engineering to automate workflows and improve efficiency.
 
 Let's connect and collaborate to build innovative software solutions together. Feel free to explore my repositories, contribute, or reach out to me for exciting projects or discussions.
 
