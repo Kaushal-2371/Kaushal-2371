@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## 👋 Hi there!,
 
 Data Analyst skilled in Python, SQL, and Power BI, focused on turning raw data into actionable insights.
 
