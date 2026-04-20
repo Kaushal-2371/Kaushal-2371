@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-Data Analyst skilled in Python, SQL, and Power BI, focused on turning raw data into actionable insights.
+If you know someone with Data Analyts skills with Python, SQL, and Power BI, focused on turning raw data into meritable insights. Then that guy could be me.
 
 
 Built ML and NLP projects on real-world datasets, including chatbot systems and research-based work. I also leverage AI and prompt engineering to automate workflows and improve efficiency.
