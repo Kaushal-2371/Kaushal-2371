@@ -17,6 +17,7 @@ I can make AI tools do anything and I love to do that. I belive in making the AI
 
 📫 How to reach me
 + 📨Email:  Kaushalsahuofficial@gmail.com
++ 🏆Kaggle: https://www.kaggle.com/kaushalsahu123
 + 👥Linkedin:  https://www.linkedin.com/in/kaushal-sahu/
 
 
