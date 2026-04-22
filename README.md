@@ -7,8 +7,8 @@ Built ML and NLP projects on real-world datasets, including chatbot systems and 
 
 Let's connect and collaborate to build innovative software solutions together. Feel free to explore my repositories, contribute, or reach out to me for exciting projects or discussions.
 
-PLUS POINT
-I can make AI tools do anything and I love to do that. I belive in making the AI your helper and boost your workspeed and efficiency. not to think in behalf of you. 
+🎗️ PLUS POINT<br>
+I can make AI tools do anything and I love to do that. I belive in making the AI your helper and boost your workspeed and efficiency. not to think in your behalf and make you dumn. 
 
 
 <br>
