@@ -9,9 +9,8 @@ Let's connect and collaborate to build innovative software solutions together. F
 
 🎗️ My USP
 <br>
-I can make AI tools go haywire.. just for you [Hire me..🫶].<br><br>
-I belive we are not screwed until AI stops hallucinating and we do.<br>
-Thankyou.
+I can make AI go haywire.. If I really get bored.<br><br>
+I believe we are not doomed until AI hallucinate and we don't.
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
