@@ -10,17 +10,13 @@ Let's connect and collaborate to build innovative software solutions together. F
 🎗️ My USP
 <br>
 I can make AI go haywire.. If I really get bored.<br>
-And I believe we are not doomed until AI hallucinate and we don't.
-
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
+> *"We're not doomed unless AI hallucinates and we fail to notice."*.<br>
 
 ---
 
-📫 How to reach me
-+ 📨Email:  Kaushalsahuofficial@gmail.com
-+ 🏆Kaggle: https://www.kaggle.com/kaushalsahu123
-+ 👥Linkedin:  https://www.linkedin.com/in/kaushal-sahu/
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
 
-
-
+### 📫 How to reach me<br>
+📨 [Kaushalsahuofficial@gmail.com](mailto:Kaushalsahuofficial@gmail.com)  
+🏆 [Kaggle](https://www.kaggle.com/kaushalsahu123)  
+💼 [LinkedIn](https://www.linkedin.com/in/kaushal-sahu/)
