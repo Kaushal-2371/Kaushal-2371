@@ -10,11 +10,11 @@ Let's connect and collaborate to build innovative software solutions together. F
 🎗️ My USP
 <br>
 I can make AI go haywire.. If I really get bored.<br>
-> *"We're not doomed unless AI hallucinates and we fail to notice."*.<br>
-
----
+> *"We're not doomed unless AI hallucinates and we fail to notice."*.
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kaushal-2371&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-2371" /> </p>
+
+---
 
 ### 📫 How to reach me<br>
 📨 [Kaushalsahuofficial@gmail.com](mailto:Kaushalsahuofficial@gmail.com)  
