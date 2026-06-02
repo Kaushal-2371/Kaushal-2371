@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-If you know someone with lots of Data Analyts, Python, SQL, and Power BI skills (Packed), that could be me.
+If you know someone with lots of Data Analytics, Python, SQL, and Power BI skills (Packed), that could be me.
 
 
 Built ML and NLP projects on real-world datasets, including chatbot systems and research-based work. I also leverage AI and prompt engineering to automate workflows and improve efficiency.
